@@ -12,6 +12,12 @@ hero: ''
 
 Code Block
 
+```python
+import pandas as pd;
+
+print('this is python');
+```
+
     print('hello');
 
 `code`
