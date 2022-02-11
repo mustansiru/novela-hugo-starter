@@ -12,9 +12,11 @@ hero: ''
 
 Code Block
 
->     import hw;
->     
->     h = hw.go();
->     print(h);
+`code`
+    import hw;
+    
+    h = hw.go();
+    print(h);
+`code`
 
 Hello World! is the most basic of the programming first line of code that people write when they begin their learning journey.
