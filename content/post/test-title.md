@@ -8,7 +8,7 @@ hero: ''
 draft: true
 
 ---
-# Title of the Post
+## Title of the Post
 
     print('Hello World'!);
 
