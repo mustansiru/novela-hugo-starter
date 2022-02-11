@@ -5,7 +5,7 @@ authors:
 title: Test Title
 excerpt: Lorem Ipsum Sample
 date: 2022-02-01T00:00:00+00:00
-hero: "/images/favicon.svg"
+hero: ''
 draft: true
 
 ---
